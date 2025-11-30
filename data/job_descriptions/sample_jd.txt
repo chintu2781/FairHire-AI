@@ -1,1 +1,22 @@
+Job Title: Machine Learning Engineer
+
+Job Description:
+We are looking for a Machine Learning Engineer who can build intelligent systems
+to automate HR and recruitment workflows.
+
+Responsibilities:
+- Build NLP and ML models for resume ranking
+- Develop and maintain deep learning pipelines
+- Deploy models into scalable cloud environments
+- Work with cross-functional teams to improve model fairness
+
+Required Skills:
+- Python, ML, NLP, Deep Learning
+- Experience with TensorFlow or PyTorch
+- Knowledge of Transformers (BERT, RoBERTa, DeBERTa)
+- Familiarity with REST APIs & deployment
+
+Preferred:
+- Experience with HR Analytics
+- Experience working with unstructured text data
 
