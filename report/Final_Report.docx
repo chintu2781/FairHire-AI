@@ -1,1 +1,27 @@
+TITLE: FairHire AI – Intelligent Resume Ranking and Bias Detection System
 
+ABSTRACT:
+This project introduces an AI-powered hiring assistant that ranks resumes,
+matches them with job descriptions using deep learning, and detects potential
+gender, age, or university bias. By leveraging SBERT transformers, NLP parsing,
+and explainability tools (LIME/SHAP), the system produces fair and transparent
+candidate scoring. The project contributes to ethical AI solutions in HR tech.
+
+TABLE OF CONTENTS:
+1. Introduction
+2. Problem Statement
+3. Literature Review
+4. Methodology
+    - Data Collection
+    - Resume Parsing (NER model)
+    - JD Understanding (Transformer encoder)
+    - Resume–JD Matching (SBERT)
+    - Bias Detection Module
+    - Explainability Layer
+5. Experimental Setup
+6. Results and Analysis
+    - Ranking accuracy
+    - Bias detection metrics
+7. Conclusion
+8. Future Scope
+9. References
